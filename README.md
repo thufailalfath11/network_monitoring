@@ -10,6 +10,3 @@ User=root
 
 [Install]
 WantedBy=multi-user.target
-
-
-# network_monitoring
